@@ -4,6 +4,7 @@ Ingredients:
  - a pumpkin
  - seven slices of smoked paprika
  - five tomatoes
- - two onions
+ - three onions
  - bouillon
  - water
+
